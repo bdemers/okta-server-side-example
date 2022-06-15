@@ -7,8 +7,8 @@ An example server side application that uses OpenId Connect (OIDC) to authentica
 The actual application uses Java Spring Boot, but it builds and runs with Docker and you don't need any prior Java knowledge. 
 
 TODO:
-- [] Flush out readme
-- [] Change name of Maven artifactId
+- [ ] Flush out readme
+- [ ] Change name of Maven artifactId
 
 **Prerequisites** 
 - [Docker](https://docs.docker.com/get-docker/)
